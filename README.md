@@ -2,7 +2,7 @@
 
 `system-bridge` is a small Python library that lets a host application register external systems behind one tool gateway.
 
-The installable name is `system-bridge`. The import package is `system_bridge`.
+The installable name is `system-bridge-core`. The import package is `system_bridge`.
 
 ## What it does
 

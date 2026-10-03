@@ -1,10 +1,10 @@
 """system-bridge registers external systems behind one tool gateway.
 
-Distribution name: system-bridge
+Distribution name: system-bridge-core
 Import name: system_bridge
 """
 
-__distribution_name__ = "system-bridge"
+__distribution_name__ = "system-bridge-core"
 __version__ = "0.1.0"
 
 from system_bridge.contracts import (
